@@ -1,5 +1,8 @@
 # SpaceShooting
-A standalone 2D shooting game built using raw GDI+ and Win32 API.
+Win32 API と GDI+ を使用して作った簡単な 2D シューティングゲーム。
 
-## License
+## ライセンス
 MIT
+
+## 備考
+このプロジェクトは、ゲームプログラムのアーキテクチャ、GDI+ や C++ 等の、ゲーム開発の研究に活用いただければ幸いです。
